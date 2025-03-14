@@ -3,6 +3,7 @@
 module purge
 module load openfoam/7-gcc
 ```
+OpenFOAM-7的[安装](https://openfoam.org/download/7-source/)
 
 2. **安装 Cantera**
 
